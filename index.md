@@ -36,7 +36,12 @@ keywords:
 
     <div class="row-fluid">
         <div class="span5">
-            email: mayalroy@g.harvard.edu<br>
+            <a href="mailto:mayaroy@g.harvard.edu">mayaroy@g.harvard.edu</a><br>
+            <br>
+            Department of Economics, Harvard University<br>
+            1805 Cambridge St<br>
+            Cambridge, MA 02138<br>
+            <br>
             <a href="https://github.com/mayalroy">github</a><br>
             <a href="https://linkedin.com/mayaroy">linkedin</a><br>
             <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1376206">HBS website</a>
