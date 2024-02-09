@@ -21,14 +21,14 @@ Before joining Harvard, I was a predoctoral research fellow at the Stanford Inst
     <div class="row-fluid">
         <div class="span5">
             Maya Roy<br/>
-            Email: mayalroy@g.harvard.edu<br/>
+            email: mayalroy@g.harvard.edu<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
                   title="Maya Leung Roy" alt="Maya Leung Roy"
-                   width="40%" align="left" style="padding-right: 30px;"/></a>
+                   width="200%" align="left" style="padding-right: 30px;"/></a>
         </div>
     </div>
 </div>
