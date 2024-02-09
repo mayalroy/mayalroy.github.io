@@ -27,7 +27,8 @@ Before joining Harvard, I was a predoctoral research fellow at the Stanford Inst
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Maya Leung Roy" alt="Maya Leung Roy"/></a>
+                  title="Maya Leung Roy" alt="Maya Leung Roy"
+                   width="40%" align="left" style="padding-right: 30px;"/></a>
         </div>
     </div>
 </div>
