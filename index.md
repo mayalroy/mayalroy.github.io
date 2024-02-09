@@ -15,7 +15,7 @@ keywords:
                    width="300%" align="left" style="padding-right: 30px;"/></a>
         </div>
         <div class="span5">
-            I am a PhD student in [Harvard's Business Economics program](https://www.hbs.edu/doctoral/phd-programs/business-economics/Pages/default.aspx). My research interests include labor economics, public economics, and health economics.<br/>
+            I am a PhD student in <a href="https://www.hbs.edu/doctoral/phd-programs/business-economics/Pages/default.aspx">Harvard's Business Economics program</a>. My research interests include labor economics, public economics, and health economics.<br/>
             <br/>
 
             Before joining Harvard, I was a predoctoral research fellow at the Stanford Institute for Economic Policy Research (SIEPR) working with Professor Heidi Williams on projects related to the economics of innovation. I graduated from MIT with a B.S. in Computer Science, Data Science, and Economics in 2020.<br/>
