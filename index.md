@@ -43,7 +43,7 @@ keywords:
             Cambridge, MA 02138<br>
             <br>
             <a href="https://github.com/mayalroy">github</a><br>
-            <a href="https://linkedin.com/mayaroy">linkedin</a><br>
+            <a href="https://www.linkedin.com/in/mayaroy/">linkedin</a><br>
             <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1376206">HBS website</a>
         </div>
     </div>
