@@ -36,9 +36,9 @@ keywords:
 
     <div class="row-fluid">
         <div class="span5">
-            email: mayalroy@g.harvard.edu
-            <a href="https://github.com/mayalroy">github</a>
-            <a href="https://linkedin.com/mayaroy">linkedin</a>
+            email: mayalroy@g.harvard.edu<br>
+            <a href="https://github.com/mayalroy">github</a><br>
+            <a href="https://linkedin.com/mayaroy">linkedin</a><br>
             <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1376206">HBS website</a>
         </div>
     </div>
