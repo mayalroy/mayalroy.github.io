@@ -12,7 +12,7 @@ keywords:
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
                   title="Maya Leung Roy" alt="Maya Leung Roy"
-                   width="300%" align="left" style="padding-right: 30px;"/></a>
+                   width="400%" align="left" style="padding-right: 30px;"/></a>
         </div>
         <div class="span5">
             I am a PhD student in <a href="https://www.hbs.edu/doctoral/phd-programs/business-economics/Pages/default.aspx">Harvard's Business Economics program</a>. My research interests include labor economics, public economics, and health economics.<br/>
