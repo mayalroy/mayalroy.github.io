@@ -20,6 +20,9 @@ I am a PhD student in Harvard's [Business Economics program](https://www.hbs.edu
 
 _Abstract:_ Marriage and health are positively correlated due to selection and protective effects, but little is known about how health affects marital dissolution. Using data on unanticipated health shocks from the PSID, I construct matched control groups of couples with similar expected marriage durability and exposure to health shocks and find that adverse health shocks raise divorce hazard: wives' health shocks raise ten year divorce incidence by 69% while husbands' raise it by 23%. The effect varies by diagnosis: cancer diagnoses do not significantly affect divorce hazard, while psychiatric and cardiovascular health shocks elevate it. The increase in divorce hazard cannot be explained by income loss or medical expenses. Instead, heterogeneity by household composition suggests that spousal care burdens mediate the effect of health shocks on divorce. Descriptive evidence on remarriage also suggests that both experiencing a health shock and being married to a spouse who experiences a shock affect spouses' outside options in the event of divorce.
 
+#### The Value of Hospice Care: Evidence from Facility Openings
+With [Yunan Ji](https://www.yunanji.com/)_ and [Edward Kong](https://www.edward-kong.com/)
+
 ### On hold
 
 #### Caring for Aging Parents: Health Effects of Division of Care Between Siblings
